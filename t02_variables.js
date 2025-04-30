@@ -1,3 +1,7 @@
-let Money = 0;
-money = money = 1;
-console.log(score);
+/****************************
+ 
+KeyToPage Josh 29/04/25
+****************************/
+
+var money = 0;
+console.log(money);
