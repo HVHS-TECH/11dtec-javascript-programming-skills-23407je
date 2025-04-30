@@ -14,9 +14,9 @@ console.log("add", mynumber - myothernumber)
 console.log("add", mynumber * myothernumber)
 console.log("add", mynumber / myothernumber)
 
-var num1
-var num2
-var answer
+var num1 = 5;
+var num2 = 10;
+var answer;
 
 answer = num1 + num2
 console.log("add", answer)
