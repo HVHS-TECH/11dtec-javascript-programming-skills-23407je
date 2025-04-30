@@ -1,2 +1,2 @@
-alert=("Welcome what is your name?");
-var username = prompt("what is your name?", "Bob");
+alert=("Welcome to my program");
+var username = prompt('what is your name?',);
