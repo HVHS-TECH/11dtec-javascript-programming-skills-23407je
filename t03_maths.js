@@ -10,7 +10,7 @@ var mynumber = 5;
 console.log(mynumber + 3)
 
 var myothernumber = 10;
-console.log(mynumber = myothernumber);
+console.log(mynumber + myothernumber);
 
 
 
