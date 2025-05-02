@@ -22,7 +22,7 @@ var neme = prompt("what is your name?");
 var ratedG = prompt("Suck on your pacifier " +neme+ " you are super young");
 }
 if (age >= "60") {
-  var xrated = prompt("can I tap that floppy ass pussy");
+  var xrated = prompt("btw I hate you");
 }
 
 

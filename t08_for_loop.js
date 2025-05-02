@@ -2,8 +2,7 @@
  
 KeyToPage Josh 29/04/25
 ****************************/
-console.log("Running t01_introduction.js");
-console.log("Coby - Lukas 29/04/25");
+
 
 //variables
 
