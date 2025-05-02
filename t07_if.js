@@ -22,7 +22,7 @@ var neme = prompt("what is your name?");
 var ratedG = prompt("Suck on your pacifier " +neme+ " you are super young");
 }
 if (age >= "60") {
-  var xrated = prompt("You are not allowed to see this as it contains content of people who are 40 and younger so you are a child predator");
+  var xrated = prompt("can I tap that floppy ass pussy");
 }
 
 
