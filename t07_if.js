@@ -21,6 +21,11 @@ var name = prompt("what is your name?");
 } else {
 var ratedG = prompt("you are the perfect age of " +age+ " come here " +name+ " I have a huge suprise for you");
 }
+if (age >= "60") {
+  var xrated = prompt("nevermind I love if floppy");
+} else {
+var ratedG = prompt("Oh you were serious nevermind");
+}
 
 
 
