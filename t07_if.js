@@ -15,16 +15,16 @@ var age = prompt("what is your age?");
 } else {
 var ratedG = prompt("you are not able to see an X-rated movies");
 }
-var name = prompt("what is your name?");
+var neme = prompt("what is your name?");
  if (age >= "18") {
-      var xrated = prompt("you are to old for me as you are " +age+  " ugly name of " +name+ " please dont visit again");
+      var xrated = prompt("welcome " +neme+ " the movie has adult content but as you are detected to be on school wifi I will ban you from watching this");
 } else {
-var ratedG = prompt("you are the perfect age of " +age+ " come here " +name+ " I have a huge suprise for you");
+var ratedG = prompt("Suck on your pacifier " +neme+ " you are super young");
 }
 if (age >= "60") {
-  var xrated = prompt("nevermind I love if floppy");
+  var xrated = prompt("You are not allowed to see this as it contains content of people who are 40 and younger so you are a predator");
 } else {
-var ratedG = prompt("Oh you were serious nevermind");
+var ratedG = prompt("Last thing I also hacked your account with a bitoin miner and ill be using your search engine and messaging your parants as the quote on quote service provider");
 }
 
 
