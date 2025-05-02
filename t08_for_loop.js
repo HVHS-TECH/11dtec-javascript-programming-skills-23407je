@@ -12,7 +12,9 @@ KeyToPage Josh 29/04/25
 ****************************/
 console.log("fuck you");
 for (count = 1; count < 10; count++) {
-    console.log("" + count);
+    console.log("
+        
+        " + count);
 }
 
 
