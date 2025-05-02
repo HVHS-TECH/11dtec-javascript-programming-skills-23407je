@@ -10,7 +10,9 @@ KeyToPage Josh 29/04/25
 /****************************
  Main code
 ****************************/
-
+console.log("fuck you");
+for (count = 1; cpunt < 1000; count++)
+    console
 
 
 
