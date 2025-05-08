@@ -32,7 +32,6 @@ function GAMBLE() {
     console.log(number);
     }
 function roulete() {
-  var classArray = ["red","black"];
   var choice = prompt("red or black")
   var roul = 2 * Math.random();
 if (roul >=1 && choice === "black" ) {
