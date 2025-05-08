@@ -34,21 +34,21 @@ function GAMBLE() {
 function roulete() {
   var classArray = ["red","black"];
   var choice = prompt("red or black")
-  roul = 2 * Math.random();
+  var roul = 2 * Math.random();
 if (roul >=1 && choice === "black" ) {
-  var black = prompt("black");
+  var blacktrue = prompt("black");
   number = number * 1.8
   console.log(number);
 } else if(roul < 1 && choice === "black") {
-  var black = prompt("red");
+  var blackfalse = prompt("red");
   number = 0;
   console.log(number);
 } else if(roul < 1 && choice === "red") {
-  var red = prompt("red");
+  var redtrue = prompt("red");
   number = number * 1.8;
   console.log(number);
 } else if(roul >= 1 && choice === "red") {
-  var red = prompt("red");
+  var redfalse = prompt("red");
   number = number * 1.8;
   console.log(number);
 } 
