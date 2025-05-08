@@ -45,8 +45,11 @@ if (roul >=1 && choice[black] ) {
   console.log(number);
 } else if(roul <=1 && choice[red]) {
   var black = prompt("red");
-  number = 0;
+  number = number * 1.8;
   console.log(number);
 } else {
-
+  var black = prompt("black");
+  number = 0;
+  console.log(number);
+}
 }
