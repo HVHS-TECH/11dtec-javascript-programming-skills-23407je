@@ -25,7 +25,7 @@ number = number + 1;
 console.log(number + 1);
 }
 function GAMBLE() {
-    random = number * Math.random();
-     finalpart = random * 2;
+    random = 2 * Math.random();
+    finalpart = number * random;
     console.log(number * finalpart);
     }
