@@ -32,22 +32,22 @@ function GAMBLE() {
     console.log(number);
     }
 function roulete() {
-  var classArray = ("0","1");
+  var classArray = ["red","black"];
   var choice = prompt("red or black")
   roul = 2 * Math.random();
-if (roul >=1 && choice[1] ) {
+if (roul >=1 && choice === black ) {
   var black = prompt("black");
   number = number * 1.8
   console.log(number);
-} else if(roul < 1 && choice[1]) {
+} else if(roul < 1 && choice === black) {
   var black = prompt("red");
   number = 0;
   console.log(number);
-} else if(roul < 1 && choice[0]) {
+} else if(roul < 1 && choice === red) {
   var black = prompt("red");
   number = number * 1.8;
   console.log(number);
-} else if(roul >= 1 && choice[0]) {
+} else if(roul >= 1 && choice === red) {
   var black = prompt("red");
   number = number * 1.8;
   console.log(number);
