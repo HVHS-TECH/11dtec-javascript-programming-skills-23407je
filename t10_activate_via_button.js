@@ -28,3 +28,7 @@ function GAMBLE() {
     number = number * random;
     console.log(number);
     }
+function roulete() {
+  var redorblack = prompt("red or black?");
+  alert("red or black?")
+      }
