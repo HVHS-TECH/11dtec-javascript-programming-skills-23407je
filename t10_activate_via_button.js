@@ -7,8 +7,8 @@ KeyToPage Josh 29/04/25
 //variables
 var number = 0;
 var saved = 0;
-var random = Math.random();
-var finalpart = random * 2;
+var random = 0;
+var finalpart = 0;
 
 /****************************
  Main code
@@ -25,6 +25,7 @@ number = number + 1;
 console.log(number + 1);
 }
 function GAMBLE() {
-    number = number * finalpart;
+    random = number * Math.random();
+     finalpart = random * 2;
     console.log(number * finalpart);
     }
