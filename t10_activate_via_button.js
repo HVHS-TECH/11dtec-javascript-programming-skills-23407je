@@ -5,7 +5,7 @@ KeyToPage Josh 29/04/25
 
 
 //variables
-var number = -1;
+var number = 0;
 var random = 0;
 var finalpart = 0;
 var roul = 0;
