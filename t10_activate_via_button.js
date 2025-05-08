@@ -47,7 +47,7 @@ if (roul >=1 && choice === "black" ) {
   number = number * 1.8;
   console.log(number);
 } else if(roul >= 1 && choice === "red") {
-  var redfalse = prompt("red");
+  var redfalse = prompt("black");
   number = number - number
   console.log(number);
 } 
