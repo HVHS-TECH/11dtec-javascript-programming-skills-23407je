@@ -121,5 +121,13 @@ if (roul >=1 && choice === "black" ) {
   var greenfalse = prompt("red");
   number = number - number
   console.log(number);
+} else if(roul >= 1 && chance === "red 1") {
+  var chancetrue1 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 2") {
+  var blackfalse1 = prompt("red");
+  number = number * 4
+  console.log(number);
 }
 }
