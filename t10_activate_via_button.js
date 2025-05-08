@@ -36,19 +36,23 @@ function roulete() {
   var roul = 2 * Math.random();
 if (roul >=1 && choice === "black" ) {
   var blacktrue = prompt("black");
-  number = number * 1.8
-  console.log(number);
+  roule = number * 1.8
+  console.log(roule);
+  number = roule
 } else if(roul < 1 && choice === "black") {
   var blackfalse = prompt("red");
-  number = 0;
-  console.log(number);
+  roule = 0;
+  console.log(roule);
+  number = roule
 } else if(roul < 1 && choice === "red") {
   var redtrue = prompt("red");
-  number = number * 1.8;
-  console.log(number);
+  roule = number * 1.8
+  console.log(roule);
+  number = roule
 } else if(roul >= 1 && choice === "red") {
   var redfalse = prompt("red");
-  number = number * 1.8;
-  console.log(number);
+  roule = 0;
+  console.log(roule);
+  number = roule
 } 
 }
