@@ -126,7 +126,75 @@ if (roul >=1 && choice === "black" ) {
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && chance === "red 2") {
-  var blackfalse1 = prompt("red");
+  var chancetrue2 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 3") {
+  var chancetrue3 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 4") {
+  var chancetrue4 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 5") {
+  var chancetrue5 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 6") {
+  var chancetrue6 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 7") {
+  var chancetrue7 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 8") {
+  var chancetrue8 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 9") {
+  var chancetrue9 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 10") {
+  var chancetrue10 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 11") {
+  var chancetrue11 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 12") {
+  var chancetrue12 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 13") {
+  var chancetrue13 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 14") {
+  var chancetrue14 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 15") {
+  var chancetrue15 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 16") {
+  var chancetrue16 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 17") {
+  var chancetrue17 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "red 18") {
+  var chancetrue18 = prompt("red");
+  number = number * 4
+  console.log(number);
+} else if(roul >= 1 && chance === "green") {
+  var chancegreen = prompt("red");
   number = number * 4
   console.log(number);
 }
