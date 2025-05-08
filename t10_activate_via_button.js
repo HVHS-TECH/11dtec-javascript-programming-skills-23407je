@@ -31,4 +31,5 @@ function GAMBLE() {
 function roulete() {
   var dumb = prompt("red or black?");
   alert("red or black?")
+  
       }
