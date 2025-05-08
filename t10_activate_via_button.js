@@ -53,5 +53,4 @@ if (roul < 1 && classArray[0]) {
   number = 0;
   console.log(number);
 }
- 
   }
