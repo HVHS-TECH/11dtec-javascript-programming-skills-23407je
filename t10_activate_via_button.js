@@ -44,7 +44,7 @@ if (roul >=1 && classArray[black] ) {
   number = 0;
   console.log(number);
 }
-if (roul < 1 && classArray[0]) {
+if (roul < 1 && classArray[red]) {
   var red = prompt("red");
   number - number * 1.8
   console.log(number);
