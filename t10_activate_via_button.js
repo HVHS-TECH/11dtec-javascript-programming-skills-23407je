@@ -6,7 +6,6 @@ KeyToPage Josh 29/04/25
 
 //variables
 var number = 0;
-var saved = 0;
 var random = 0;
 var finalpart = 0;
 
