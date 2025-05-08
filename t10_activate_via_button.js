@@ -38,20 +38,20 @@ function roulete() {
 if (roul >=1 && classArray[1] ) {
   var black = prompt("black");
   number = number * 1.8
-  console.log(number * 1.8);
+  console.log(number);
 } else {
   var black = prompt("black");
   number = 0;
-  console.log(number = 0);
+  console.log(number);
 }
 if (roul < 1 && classArray[0]) {
   var red = prompt("red");
   number - number * 1.8
-  console.log(number * 1.8);
+  console.log(number);
 } else {
   var red = prompt("red");
   number = 0;
-  console.log(number = 0);
+  console.log(number);
 }
  
   }
