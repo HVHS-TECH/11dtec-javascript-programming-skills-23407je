@@ -45,75 +45,75 @@ if (roul >=1 && choice === "black" ) {
   var redfalse = prompt("black");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 1") {
+} else if(roul < 1 && chance === "black 1") {
   var blackfalse1 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 2") {
+} else if(roul < 1 && chance === "black 2") {
   var blackfalse2 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 3") {
+} else if(roul < 1 && chance === "black 3") {
   var blackfalse3 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 4") {
+} else if(roul < 1 && chance === "black 4") {
   var blackfalse4 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 5") {
+} else if(roul < 1 && chance === "black 5") {
   var blackfalse5 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 6") {
+} else if(roul < 1 && chance === "black 6") {
   var blackfalse6 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 7") {
+} else if(roul < 1 && chance === "black 7") {
   var blackfalse7 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 8") {
+} else if(roul < 1 && chance === "black 8") {
   var blackfalse8 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 9") {
+} else if(roul < 1 && chance === "black 9") {
   var blackfalse9 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 10") {
+} else if(roul < 1 && chance === "black 10") {
   var blackfalse10 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 11") {
+} else if(roul < 1 && chance === "black 11") {
   var blackfalse11 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 12") {
+} else if(roul < 1 && chance === "black 12") {
   var blackfalse12 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 13") {
+} else if(roul < 1 && chance === "black 13") {
   var blackfalse13 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 14") {
+} else if(roul < 1 && chance === "black 14") {
   var blackfalse14 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 15") {
+} else if(roul < 1 && chance === "black 15") {
   var blackfalse15 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 16") {
+} else if(roul < 1 && chance === "black 16") {
   var blackfalse16 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 17") {
+} else if(roul < 1 && chance === "black 17") {
   var blackfalse17 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red 18") {
+} else if(roul < 1 && chance === "black 18") {
   var blackfalse18 = prompt("red");
   number = number - number
   console.log(number);
@@ -121,75 +121,75 @@ if (roul >=1 && choice === "black" ) {
   var greenfalse = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul >= 1 && chance === "red 1") {
+} else if(roul >= 1 && chance === "black 1") {
   var chancetrue1 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 2") {
+} else if(roul >= 1 && chance === "black 2") {
   var chancetrue2 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 3") {
+} else if(roul >= 1 && chance === "black 3") {
   var chancetrue3 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 4") {
+} else if(roul >= 1 && chance === "black 4") {
   var chancetrue4 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 5") {
+} else if(roul >= 1 && chance === "black 5") {
   var chancetrue5 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 6") {
+} else if(roul >= 1 && chance === "black 6") {
   var chancetrue6 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 7") {
+} else if(roul >= 1 && chance === "black 7") {
   var chancetrue7 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 8") {
+} else if(roul >= 1 && chance === "black 8") {
   var chancetrue8 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 9") {
+} else if(roul >= 1 && chance === "black 9") {
   var chancetrue9 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 10") {
+} else if(roul >= 1 && chance === "black 10") {
   var chancetrue10 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 11") {
+} else if(roul >= 1 && chance === "black 11") {
   var chancetrue11 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 12") {
+} else if(roul >= 1 && chance === "black 12") {
   var chancetrue12 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 13") {
+} else if(roul >= 1 && chance === "black 13") {
   var chancetrue13 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 14") {
+} else if(roul >= 1 && chance === "black 14") {
   var chancetrue14 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 15") {
+} else if(roul >= 1 && chance === "black 15") {
   var chancetrue15 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 16") {
+} else if(roul >= 1 && chance === "black 16") {
   var chancetrue16 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 17") {
+} else if(roul >= 1 && chance === "black 17") {
   var chancetrue17 = prompt("red");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && chance === "red 18") {
+} else if(roul >= 1 && chance === "black 18") {
   var chancetrue18 = prompt("red");
   number = number * 4
   console.log(number);
