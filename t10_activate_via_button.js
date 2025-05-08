@@ -36,30 +36,11 @@ function roulete() {
   var choice = prompt("red or black")
   roul = 2 * Math.random();
 if (roul >=1 && classArray[black] ) {
-  if (redright) return;
-  if (redwrong) return;
-  var blackright
   var black = prompt("black");
   number = number * 1.8
   console.log(number);
 } else {
-  var blackwrong
   var black = prompt("black");
-  number = 0;
-  console.log(number);
-}
-if (roul < 1 && classArray[red]) {
-  var redright
-  if (blackright) return;
-  if (blackwrong) return;
-  var red = prompt("red");
-  number - number * 1.8
-  console.log(number);
-} else {
-  var redwrong
-  if (blackright) return;
-  if (blackwrong) return;
-  var red = prompt("red");
   number = 0;
   console.log(number);
 }
