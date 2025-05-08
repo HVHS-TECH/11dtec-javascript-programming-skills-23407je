@@ -5,18 +5,15 @@ KeyToPage Josh 29/04/25
 
 
 //variables
-var number = 0;
+var number = -1;
 var random = 0;
 var finalpart = 0;
 var roul = 0;
 var roulanswerRed = 0;
 var roulanswerblack = 0;
-
 /****************************
  Main code
 ****************************/
-var number = 0;
-
 
 /****************************
   Functions
