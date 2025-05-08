@@ -35,8 +35,9 @@ function roulete() {
   var dumb = prompt("red or black?");
   roul = 2 * Math.random();
   if (roul >= 1) {
-    
+    var black = prompt("Black");
   } else {
-    
+    var red = prompt("red");
   }
+
   }
