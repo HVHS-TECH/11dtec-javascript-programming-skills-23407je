@@ -33,10 +33,10 @@ function GAMBLE() {
     }
 function roulete() {
   var dumb = prompt("red or black?");
-  alert("red or black?")
   roul = 2 * Math.random();
   if (roul >= 1) {
     
   } else {
     
+  }
   }
