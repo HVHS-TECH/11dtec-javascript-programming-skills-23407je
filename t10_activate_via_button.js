@@ -35,7 +35,7 @@ function roulete() {
   var classArray = ("red","black?");
   var choice = prompt("red or black")
   roul = 2 * Math.random();
-if (roul >=1 && classArray[1] ) {
+if (roul >=1 && classArray[black] ) {
   var black = prompt("black");
   number = number * 1.8
   console.log(number);
