@@ -9,8 +9,6 @@ var number = 0;
 var random = 0;
 var finalpart = 0;
 var roul = 0;
-var roulanswerRed = 0;
-var roulanswerblack = 0;
 /****************************
  Main code
 ****************************/
