@@ -33,7 +33,7 @@ if (roul >=1 && chance === "black" ) {
   var blacktrue = prompt("black");
   number = number * 1.8;
   console.log(number);
-} else if(roul <= 1 && chance === "black") {
+} else if(roul < 1 && chance === "black") {
   var blackfalse = prompt("red");
   number = number - number
   console.log(number);
@@ -45,11 +45,11 @@ if (roul >=1 && chance === "black" ) {
   var redfalse = prompt("black");
   number = number - number
   console.log(number);
-} else if(roul <= 1 && chance === "black 1") {
+} else if(roul < 1 && chance === "black 1") {
   var blackfalse1 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul <= 1 && chance === "black 2") {
+} else if(roul < 1 && chance === "black 2") {
   var blackfalse2 = prompt("red");
   number = number - number
   console.log(number);
