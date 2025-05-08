@@ -45,11 +45,11 @@ if (roul >=1 && chance === "black" ) {
   var redfalse = prompt("black");
   number = number - number
   console.log(number);
-} else if(roul >=0.15 && number < 0.175 && chance === "black 1") {
+} else if(roul <= 1 && chance === "black 1") {
   var blackfalse1 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul >=0.2 && number < 0.225 && chance === "black 2") {
+} else if(roul <= 1 && chance === "black 2") {
   var blackfalse2 = prompt("red");
   number = number - number
   console.log(number);
