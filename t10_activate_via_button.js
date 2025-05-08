@@ -29,6 +29,6 @@ function GAMBLE() {
     console.log(number);
     }
 function roulete() {
-  var redorblack = prompt("red or black?");
+  var dumb = prompt("red or black?");
   alert("red or black?")
       }
