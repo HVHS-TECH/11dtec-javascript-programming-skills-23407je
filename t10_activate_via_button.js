@@ -36,10 +36,13 @@ function roulete() {
   var choice = prompt("red or black?")
   roul = 2 * Math.random();
   if (roul >= 1) {
-    choice = classArray
     var black = prompt("Black");
   } else {
     var red = prompt("red");
   }
+  if (roul >= 1) {
+    choice = classArray[red];
+  } else {
 
+  }
   }
