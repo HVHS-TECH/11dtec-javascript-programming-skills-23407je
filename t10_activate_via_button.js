@@ -36,7 +36,7 @@ function roulete() {
   var roul = 2 * Math.random();
 if (roul >=1 && choice === "black" ) {
   var blacktrue = prompt("black");
-  number = number * 1.8
+  number = number * 1.8;
   console.log(number);
 } else if(roul < 1 && choice === "black") {
   var blackfalse = prompt("red");
