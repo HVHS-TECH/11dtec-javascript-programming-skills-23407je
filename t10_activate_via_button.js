@@ -30,6 +30,7 @@ function roulete() {
   var pick =("red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","red","black","black","black","black","black","black","black","black","black","black","black","black","black","black","black","black","black","black","red 1","black 1","red 2","black 2","red 3","black 3","red 4","black 4","red 5","black 5","red 6","black 6","red 7","black 7","red 8","black 8","red 9","black 9","red 10","black 10","red 11","black 11","red 12","black 12","red 13","black 13","red 14","black 14","red 15","black 15","red 16","black 16","red 17","black 17","red 18","black 18","green")
   var roul = Math.random();
   var risknum = roul * 38;
+  var roundedrisknum = 
 if (roul >=1 && chance === "black" ) {
   var blacktrue = prompt("black");
   number = number * 1.8;
