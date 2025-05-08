@@ -25,6 +25,6 @@ number = number + 1;
 console.log(number + 1);
 }
 function GAMBLE() {
-    console.log(number * finalpart);
     number = number *finalpart;
+    console.log(number);
     }
