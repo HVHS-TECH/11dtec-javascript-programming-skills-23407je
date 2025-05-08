@@ -8,6 +8,9 @@ KeyToPage Josh 29/04/25
 var number = 0;
 var random = 0;
 var finalpart = 0;
+var roul = 0;
+var roulanswerRed = 0;
+var roulanswerblack = 0;
 
 /****************************
  Main code
@@ -31,5 +34,9 @@ function GAMBLE() {
 function roulete() {
   var dumb = prompt("red or black?");
   alert("red or black?")
-  
-      }
+  roul = 2 * Math.random();
+  if (roul >= 1) {
+    
+  } else {
+    
+  }
