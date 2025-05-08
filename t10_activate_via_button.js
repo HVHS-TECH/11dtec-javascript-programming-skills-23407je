@@ -15,7 +15,7 @@ var roulanswerblack = 0;
 /****************************
  Main code
 ****************************/
-
+number = number -1;
 
 
 
