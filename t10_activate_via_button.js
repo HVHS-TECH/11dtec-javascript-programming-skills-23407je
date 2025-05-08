@@ -18,7 +18,7 @@ var roul = 0;
 ****************************/
 function start() {
 number = number + 1;
-console.log(number + 1);
+console.log(number);
 }
 function GAMBLE() {
     random = 2 * Math.random();
