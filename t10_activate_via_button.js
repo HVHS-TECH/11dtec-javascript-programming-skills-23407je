@@ -39,19 +39,6 @@ if (roul >=1 && classArray[black] ) {
   var black = prompt("black");
   number = number * 1.8
   console.log(number);
-} else {
-  var black = prompt("black");
-  number = 0;
-  console.log(number);
+} else if(roul <=1 && classArray[black]) {
+  
 }
-  }
-  if (roul <=1 && classArray[red] ) {
-    var black = prompt("red");
-    number = number * 1.8
-    console.log(number);
-  } else {
-    var black = prompt("red");
-    number = 0;
-    console.log(number);
-  }
-    }
