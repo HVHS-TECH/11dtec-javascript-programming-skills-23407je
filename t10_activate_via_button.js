@@ -32,7 +32,7 @@ function GAMBLE() {
     console.log(number);
     }
 function roulete() {
-  var dumb = prompt("red or black?");
+  var classArray = prompt("red or black?");
   roul = 2 * Math.random();
   if (roul >= 1) {
     +dumb+
