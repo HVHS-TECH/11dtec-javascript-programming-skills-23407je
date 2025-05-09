@@ -211,11 +211,11 @@ if (roul >=1 && chance === "black" ) {
   number = number - number
   console.log(number);
 } else if(roul < 1 && risknum == 4 && chance === "red 4") {
-  var rfalse4 = prompt("black");
+  var rfalse4 = prompt("red 4");
   number = number - number
   console.log(number);
 } else if(roul < 1 && risknum == 5 && chance === "red 5") {
-  var rfalse5 = prompt("black");
+  var rfalse5 = prompt("red 5");
   number = number - number
   console.log(number);
 } else if(roul < 1 && risknum == 6 && chance === "red 6") {
