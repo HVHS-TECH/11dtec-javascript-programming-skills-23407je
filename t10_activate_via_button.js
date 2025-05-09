@@ -168,34 +168,42 @@ if (roul >= 1) {
   console.log(number);
 } else if(roul >= 1 && risknum == 12) {
   var chancetrue12 = prompt("black 12");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 13) {
-  var chancetrue13 = prompt("black 14");
+  var chancetrue13 = prompt("black 13");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 14) {
   var chancetrue14 = prompt("black 15");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 15) {
   var chancetrue15 = prompt("black 16");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 16) {
   var chancetrue16 = prompt("black 17");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 17) {
   var chancetrue17 = prompt("black 18");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 18) {
   var chancetrue18 = prompt("black 19");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 19) {
-  var chancegreen = prompt("black 20");
+  var chancegreen = prompt("green");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul < 1 && risknum == 1) {
@@ -276,14 +284,17 @@ if (roul >= 1) {
   console.log(number);
 } else if(roul >= 1 && risknum == 1) {
   var rchancetrue1 = prompt("black 1");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 2) {
   var rchancetrue2 = prompt("black 2");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 3) {
   var chancetrue3 = prompt("black 3");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 4) {
@@ -292,62 +303,77 @@ if (roul >= 1) {
   console.log(number);
 } else if(roul >= 1 && risknum == 5) {
   var rchancetrue5 = prompt("black 5");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 6) {
   var rchancetrue6 = prompt("black 6");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 7) {
   var rchancetrue7 = prompt("black 7");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 8) {
   var rchancetrue8 = prompt("black 8");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 9) {
   var rchancetrue9 = prompt("black 9");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 10) {
   var rchancetrue10 = prompt("black 10");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 11) {
   var rchancetrue11 = prompt("black 11");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 12) {
   var rchancetrue12 = prompt("black 12");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 13) {
   var rchancetrue13 = prompt("black 13");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 14) {
   var rchancetrue14 = prompt("black 14");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 15) {
   var rchancetrue15 = prompt("black 15");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 16) {
   var rchancetrue16 = prompt("black 16");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 17) {
   var rchancetrue17 = prompt("black 17");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 18) {
   var rchancetrue18 = prompt("black 18");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 19) {
   var chancegreen = prompt("green");
+  number / 1.8
   number = number * 4
   console.log(number);
 }
