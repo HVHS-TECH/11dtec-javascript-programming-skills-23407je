@@ -87,15 +87,15 @@ if (roul >=1 && chance === "black" ) {
   var blackfalse10 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "black 11") {
+} else if(roul < 1 && risknum == 11 && chance === "black 11") {
   var blackfalse11 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "black 12") {
+} else if(roul < 1 && risknum == 12 && chance === "black 12") {
   var blackfalse12 = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "black 13") {
+} else if(roul < 1 && risknum == 13 && chance === "black 13") {
   var blackfalse13 = prompt("red");
   number = number - number
   console.log(number);
