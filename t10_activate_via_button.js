@@ -124,46 +124,57 @@ if (roul >= 1) {
   console.log(number);
 } else if(roul >= 1 && risknum == 1) {
   var chancetrue1 = prompt("black 1");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 2) {
   var chancetrue2 = prompt("black 2");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 3) {
   var chancetrue3 = prompt("black 3");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 4) {
   var chancetrue4 = prompt("black 4");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 5) {
   var chancetrue5 = prompt("black 5");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 6) {
   var chancetrue6 = prompt("black 6");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 7) {
   var chancetrue7 = prompt("black 7");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 8) {
   var chancetrue8 = prompt("black 8");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 9) {
   var chancetrue9 = prompt("black 9");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 10) {
   var chancetrue10 = prompt("black 10");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 11) {
   var chancetrue11 = prompt("black 11");
+  number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 12) {
@@ -177,27 +188,27 @@ if (roul >= 1) {
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 14) {
-  var chancetrue14 = prompt("black 15");
+  var chancetrue14 = prompt("black 14");
   number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 15) {
-  var chancetrue15 = prompt("black 16");
+  var chancetrue15 = prompt("black 15");
   number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 16) {
-  var chancetrue16 = prompt("black 17");
+  var chancetrue16 = prompt("black 16");
   number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 17) {
-  var chancetrue17 = prompt("black 18");
+  var chancetrue17 = prompt("black 17");
   number / 1.8
   number = number * 4
   console.log(number);
 } else if(roul >= 1 && risknum == 18) {
-  var chancetrue18 = prompt("black 19");
+  var chancetrue18 = prompt("black 18");
   number / 1.8
   number = number * 4
   console.log(number);
