@@ -28,21 +28,21 @@ function GAMBLE() {
 function roulete() {
   var chance = prompt("red or black. If you would like to use a number like red 1 or black 16 please enter the color and then after a number between 1 and 18 dont forget you can also bet green if you wish but to type a color and then number please type like Red 18. Do not type like red18 you must include the space")
   var roul = Math.random();
-  var risknum = Math.random() * 38;
+  var risknum = Math.random() * 18;
   var roundedrisknum = Math.ceil(risknum);
-if (roul >=1 && risknum > 19 ) {
+if (roul >= 1) {
   var blacktrue = prompt("black");
   number = number * 1.8;
   console.log(number);
-} else if(roul < 1 && risknum > 19) {
+} else if(roul < 1) {
   var blackfalse = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && risknum > 19) {
+} else if(roul < 1) {
   var redtrue = prompt("red");
   number = number * 1.8;
   console.log(number);
-} else if(roul >= 1 && risknum > 19) {
+} else if(roul >= 1) {
   var redfalse = prompt("black");
   number = number - number
   console.log(number);
