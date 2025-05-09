@@ -30,19 +30,19 @@ function roulete() {
   var roul = Math.random();
   var risknum = Math.random() * 19;
   var roundedrisknum = Math.ceil(risknum);
-if (roul >=1 && chance === "black" ) {
+if (roul >=1) {
   var blacktrue = prompt("black");
   number = number * 1.8;
   console.log(number);
-} else if(roul < 1 && chance === "black") {
+} else if(roul < 1) {
   var blackfalse = prompt("red");
   number = number - number
   console.log(number);
-} else if(roul < 1 && chance === "red") {
+} else if(roul < 1) {
   var redtrue = prompt("red");
   number = number * 1.8;
   console.log(number);
-} else if(roul >= 1 && chance === "red") {
+} else if(roul >= 1) {
   var redfalse = prompt("black");
   number = number - number
   console.log(number);
