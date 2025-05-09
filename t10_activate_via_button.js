@@ -338,15 +338,15 @@ if (roul >=1 && chance === "black" ) {
   var rchancetrue16 = prompt("black 16");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && risknum == 17 && chance === "black 17") {
+} else if(roul >= 1 && risknum == 17) {
   var rchancetrue17 = prompt("black 17");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && risknum == 18 && chance === "black 18") {
+} else if(roul >= 1 && risknum == 18) {
   var rchancetrue18 = prompt("black 18");
   number = number * 4
   console.log(number);
-} else if(roul >= 1 && risknum == 19 && chance === "green") {
+} else if(roul >= 1 && risknum == 19) {
   var chancegreen = prompt("green");
   number = number * 4
   console.log(number);
