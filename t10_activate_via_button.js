@@ -26,7 +26,7 @@ function GAMBLE() {
     console.log(number);
     }
 function roulete() {
-  var chance = prompt("red or black. If you would like to use a number like red 1 or black 16 please enter the color and then after a number between 1 and 18 dont forget you can also bet green if you wish but to type a color and then number please type like Red 18. Do not type like red18 you must include the space")
+  var chance = prompt("red or black ","black")
   var roul = Math.random();
   var beforerisknum = Math.random() * 18;
   var risknum = Math.ceil(risknum);
