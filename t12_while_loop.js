@@ -12,9 +12,11 @@ var password = prompt("What is your password");
 /****************************
  Main code
 ****************************/
-while
+while (password != "Password779"){
+    password = prompt("Incorrect password");
+}
 
-
+alert("You are in");
 
 /****************************
   Functions
