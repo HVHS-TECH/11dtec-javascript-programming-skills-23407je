@@ -11,8 +11,7 @@ var userage;
  Main code
 ****************************/
 userage = prompt("What is your age?");
-if userage
-
+if(userage <= 13 ||)
 
 
 /****************************
