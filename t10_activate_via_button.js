@@ -37,9 +37,6 @@ if (roul >= 1) {
 } else if(roul < 1) {
   number = number - number
   console.log(number);
-} else if(roul < 1) {
-  number = number * 1.8;
-  console.log(number);
 } else if(roul >= 1) {
   number = number - number
   console.log(number);
