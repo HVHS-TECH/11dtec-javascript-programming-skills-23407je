@@ -31,16 +31,7 @@ function roulete() {
   var roul = beforeroul * 2;
   var beforerisknum = Math.random() * 18;
   var risknum = Math.ceil(risknum);
-if (roul >= 1) {
-  number = number * 1.8;
-  console.log(number);
-} else if(roul < 1) {
-  number = number - number
-  console.log(number);
-} else if(roul >= 1) {
-  number = number - number
-  console.log(number);
-} else if(roul < 1 && risknum == 1) {
+if(roul < 1 && risknum == 1) {
   var blackfalse1 = prompt("red 1");
   number = number - number
   console.log(number);
