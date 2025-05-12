@@ -26,7 +26,7 @@ function GAMBLE() {
     console.log(number);
     }
 function roulete() {
-  var chance = prompt("red or black ","black")
+  var chance = prompt("red or black ");
   var roul = Math.random();
   var beforerisknum = Math.random() * 18;
   var risknum = Math.ceil(risknum);
