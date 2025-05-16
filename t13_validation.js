@@ -11,8 +11,11 @@ var userage;
  Main code
 ****************************/
 userage = prompt("What is your age?");
-if(userage <= 13 ||)
-
+if(userage <= 18 || userage >= 21){
+alert("you are not welcome");
+} else {
+  alert("you are also not welcome");
+}
 
 /****************************
   Functions
