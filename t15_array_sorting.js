@@ -12,7 +12,7 @@ let classarray = ["Mr.Goodyear", "Mr.Britton", "Mr.Williams", "Mr.Blomquist", "M
 /****************************
  Main code
 ****************************/
-aler
+alert()
 
 
 
