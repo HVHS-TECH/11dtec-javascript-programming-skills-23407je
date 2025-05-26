@@ -27,3 +27,7 @@ getUserheight();
 /****************************
   Functions
 ****************************/
+function getUsername() {
+    Username = prompt("what is your name?")
+}
+function
