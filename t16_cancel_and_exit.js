@@ -21,7 +21,6 @@ function start() {
     }
 }
 getUserheight();
-}
 
 
 
