@@ -8,8 +8,6 @@ KeyToPage Josh 29/04/25
 //variables
 var Username;
 var size;
-
-
 /****************************
  Main code
 ****************************/
@@ -20,9 +18,6 @@ function start() {
     }
 }
 getsize();
-
-
-
 /****************************
   Functions
 ****************************/
