@@ -16,7 +16,6 @@ var size;
 function start() {
     getUsername();
     if (Username == null) {
-       alert("You are disabled");
        return;
     }
 }
