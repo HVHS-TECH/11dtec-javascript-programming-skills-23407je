@@ -22,8 +22,8 @@ getsize();
   Functions
 ****************************/
 function getUsername() {
-    Username = prompt("what is your name?");
+    Username = prompt("what is your name?")
 }
 function getsize() {
-size = prompt("What is your size?");
+size = prompt("What is your height?")
 }
